@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rohith123Rg</h1>
-<h3 align="center">A passionate frontend developer from United States</h3>
+<h1 align="center">Hi 👋, I'm Rohithguptha</h1>
+<h3 align="center">A passionate full stack developer from United States</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React native**
+- 💬 Ask me about **Java, Microservices, ReactJS & React Native, Next.js, Angular, Vue js, Node js, TypeScript, JavaScript, HTML, CSS, AWS**
 
-- 💬 Ask me about **Android, Mearn**
-
-- 📫 How to reach me **veeramallarohith97@gmail.com**
+- 📫 How to reach me **rohithgupthaui97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohithgupthaui97@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohithgupthaui97@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohith-veeramalla-956997199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohithgupthaui97@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
