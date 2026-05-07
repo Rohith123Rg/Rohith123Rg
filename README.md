@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZrbWRxenZwbXRuM3Y0NnJ3YTg4dzFqeGhkOThmbTRjeHY5MjY0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif ))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZrbWRxenZwbXRuM3Y0NnJ3YTg4dzFqeGhkOThmbTRjeHY5MjY0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif ))] 
+(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohith Guptha</h1>
 <h3 align="center">A passionate full stack developer from United States</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
